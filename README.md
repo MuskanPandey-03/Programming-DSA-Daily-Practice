@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
