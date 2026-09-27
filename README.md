@@ -14,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
