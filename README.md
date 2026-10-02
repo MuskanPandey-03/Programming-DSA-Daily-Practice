@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -49,4 +51,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
