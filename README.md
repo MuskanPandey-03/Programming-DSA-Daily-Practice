@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -46,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Two Pointers
 |  |
