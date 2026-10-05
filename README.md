@@ -11,6 +11,7 @@
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0242-valid-anagram) |
+| [0856-score-of-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -26,12 +27,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
