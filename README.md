@@ -77,4 +77,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
