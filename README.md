@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0100-same-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
