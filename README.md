@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
