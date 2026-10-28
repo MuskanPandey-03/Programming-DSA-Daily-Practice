@@ -49,6 +49,7 @@
 | [0035-search-insert-position](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
