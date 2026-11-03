@@ -49,6 +49,7 @@
 | [0035-search-insert-position](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -57,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
