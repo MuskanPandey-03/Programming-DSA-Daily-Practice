@@ -48,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
