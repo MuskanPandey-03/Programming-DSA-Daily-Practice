@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
 ## Dynamic Programming
@@ -121,4 +123,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0183-customers-who-never-order) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
