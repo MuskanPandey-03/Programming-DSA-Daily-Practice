@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
