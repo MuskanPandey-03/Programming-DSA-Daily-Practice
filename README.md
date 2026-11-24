@@ -52,6 +52,7 @@
 | [0075-sort-colors](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0075-sort-colors) |
 | [1480-running-sum-of-1d-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -61,6 +62,7 @@
 | [0007-reverse-integer](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -133,4 +135,16 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MuskanPandey-03/Programming-DSA-Daily-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
